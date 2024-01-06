@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Victoria Mazilu (@victoriamazilu)
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring full-stack developer currently studying at the University of Waterloo. I love exploring new technologies and building things that make a difference.
+Welcome to my GitHub profile! I'm a passionate learner and aspiring full-stack developer currently studying Software Engineering at the University of Waterloo. I love exploring new technologies and building things that make a difference.
 
 ## About Me
 
