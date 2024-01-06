@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @victoriamazilu
+- 👀 I’m interested in learning as many new things as I can!
+- 🌱 I’m currently learning full-stack development
+- 📫 How to reach me: vmazilu@uwaterloo.ca
