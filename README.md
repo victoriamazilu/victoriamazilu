@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I'm a passionate learner and aspiring full-stack d
 - 🌱 **Currently Learning**: Diving deep into full-stack development.
 - 🎯 **Goals for 2024**: To contribute to major open-source projects and develop my own portfolio of diverse and impactful web applications.
 
-### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=victoriamazilu&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamazilu&exclude_repo=Shower-Scribe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
