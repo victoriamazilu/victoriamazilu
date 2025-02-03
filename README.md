@@ -1,23 +1,17 @@
 # 👋 Hi, I’m Victoria Mazilu (@victoriamazilu)
 
-Welcome to my GitHub profile! I'm a passionate learner and aspiring full-stack developer currently studying Software Engineering at the University of Waterloo. I love exploring new technologies and building things that make a difference.
-
-## About Me
+Software Engineering Student. Building and learning.
 
 - 📚 **Education**: Pursuing a degree in Software Engineering at the University of Waterloo.
-- 🌱 **Currently Learning**: Diving deep into full-stack development.
-- 🎯 **Goals for 2024**: To contribute to major open-source projects and develop my own portfolio of diverse and impactful web applications.
+- 🌱 **Currently Learning About**: AI Chatbots, classic full-stack dev, VR, and training an LLM to recognize hand gestures.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriamazilu&size_weight=0.5&count_weight=0.5&hide=HTML,CSS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with Me
+## Connect
 
 - 📫 **Email**: vmazilu@uwaterloo.ca
 - **LinkedIn**: (https://www.linkedin.com/in/victoriamazilu/)
-- **Portfolio**: [vmazilu.com](https://vmazilu.com/)
+- **Portfolio**: [vmazilu.ca](https://vmazilu.ca/)
 
-Feel free to reach out for collaborations or just for a chat!
-
----
-
-Thank you for visiting my profile!
+Feel free to reach out.
